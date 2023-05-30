@@ -1,0 +1,3 @@
+The Grasshopper scripts are placed in its respective branch. To run the scripts, you will need the SolidFEM plugin in the components folder. 
+
+! Remember to run Rhino as an administrator for the solver to work!
